@@ -2,5 +2,11 @@
 
 ## this is markup
 
-[ ] have you learnt basic markup syntax?
+- [ ] have you learnt basic markup syntax?
 
+adding some basic 
+
+```
+console.log('blah');
+
+```
